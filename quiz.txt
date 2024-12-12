@@ -1,4 +1,4 @@
-1. Why do you use "using strict" at the top of your JS files? To eliminate errors when running the script, such as undefined variables.
+1. Why do you use "use strict" at the top of your JS files? To eliminate errors when running the script, such as undefined variables.
 2. What does line 3 mean? It replaces the html element in CSS.  Acts as the same, but is more specific in they css tiers.
 3. What is happening on lines 5-8 and why? Setting the base values for colors and font sizes for the entore document.  Setting them allows any percentage or ems or rems to be based on those settings as the base.
 4. If you implemented the functionality of the buttons,
